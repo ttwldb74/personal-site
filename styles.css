@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'Abigeta Display';
-    src: url('Abigeta-Display-Regular.otf') format('opentype');
+    font-family: 'EBGaramond-Regular';
+    src: url('EBGaramond-Regular.ttf'') format('opentype');
   }
   
 
   h1, p, body {
-    font-family: 'Abigeta Display', sans-serif;
+    font-family: 'EBGaramond-Regular', sans-serif;
   }
