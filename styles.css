@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Abigeta'; /* Choose a name for your font */
+    src: url('Abigeta-Display-Regular.otf') format('abigeta'),
+    /* You can include more font formats like TTF and EOT if needed */
+  }
+  body {
+    font-family: 'Abigeta', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'Abigeta', sans-serif;
+  }
